@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "electron": "^25.0.0",
-    "electron-builder": "^23.6.0"
+    "electron-builder": "^25.1.8"
   },
   "build": {
     "appId": "com.focusflow.app",
@@ -45,7 +45,7 @@
     "ansi-regex": "^5.0.1",
     "ansi-styles": "^4.3.0",
     "app-builder-bin": "^4.0.0",
-    "app-builder-lib": "^23.6.0",
+    "app-builder-lib": "^25.1.8",
     "argparse": "^2.0.1",
     "asar": "^3.2.0",
     "async": "^3.2.6",
@@ -90,8 +90,8 @@
     "define-properties": "^1.2.1",
     "delayed-stream": "^1.0.0",
     "detect-node": "^2.1.0",
-    "dir-compare": "^2.4.0",
-    "dmg-builder": "^23.6.0",
+    "dir-compare": "^5.0.0",
+    "dmg-builder": "^25.1.8",
     "dotenv": "^9.0.2",
     "dotenv-expand": "^5.1.0",
     "ejs": "^3.1.10",
